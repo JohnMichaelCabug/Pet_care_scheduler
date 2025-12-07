@@ -18,5 +18,6 @@ By digitizing the pet care process, the system promotes responsible pet ownershi
 
 ## Getting Started
 
-1. Clone the repository 
-2. 
+1. Clone the repository https://github.com/JohnMichaelCabug/Pet_care_scheduler.git
+   
+
